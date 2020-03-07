@@ -1,4 +1,4 @@
-console.log("Up and running!");
+console.log("Game is Up and running!");
 
 let cardOne = "queen";
 let cardTwo = "queen";
